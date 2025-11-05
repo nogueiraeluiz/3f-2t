@@ -77,6 +77,7 @@ body {
     .botao:last-child{
         border-radius: 0 40px 0 0;
     }
-};
-    
-
+   .contador-digito{ padding: 0 16px;
+text-align: center;
+min-width: 100px;
+}
